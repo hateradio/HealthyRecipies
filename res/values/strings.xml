@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Healthy Recipies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="simple_salsa">Simple Salsa</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="image_tomato">A few tomatoes.</string>
+    
+    <string name="button_recipie_view">View Recipie</string>
+    
+    <string name="layout_recipie_ingredients">Ingredients</string>
+    
+    <string name="header_recipie">%1$s Recipe</string>
+    <string name="recipie_salsa"><![CDATA[
+4 chopped tomatoes\n
+1 small chopped onion\n
+4 minced garlic cloves\n
+1/4 cup chopped fresh cilantro
+        ]]>
+    </string>
+    <string name="recipie_preparation">Preparation</string>
+    <string name="recipie_preparation_text">Combine all ingredients. Add salt to taste.</string>
+
+</resources>
